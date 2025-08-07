@@ -1,2 +1,0 @@
-# overvu
-AI Screen recorder
